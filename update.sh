@@ -1,0 +1,1 @@
+git checkout main; git add .; git commit -m "a"; git push origin main; ./bin/deploy 
