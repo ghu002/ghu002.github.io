@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Fung Group at Georgia Tech CSE # the website title (if blank, full name will be used instead)
-first_name: Victor
+title: Hu Group at Georgia Tech MSE # the website title (if blank, full name will be used instead)
+first_name: Guoxiang (Emma)
 middle_name: 
-last_name: Fung
-position: Assistant Professor of Computational Science and Engineering, College of Computing, Georgia Tech
-email: victorfung@gatech.edu
+last_name: Hu
+position: Assistant Professor of Materials Science and Engineering, College of Engineering, Georgia Tech
+email: ghu002@ucr.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The website of Fung Group at Georgia Tech
+  The website of Hu Group at Georgia Tech
 footer_text: >
   
-keywords: Victor, Fung  # add your own keywords or leave empty
+keywords: Guoxiang, Hu  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 photo: Victor_1.jpg
