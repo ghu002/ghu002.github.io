@@ -9,10 +9,7 @@ children:
       permalink: /contact/
     - title: divider
     - title: News
-      permalink: /allnews/    
-    - title: divider
-    - title: VIP Team
-      permalink: /vip/    
+      permalink: /allnews/     
     - title: divider
     - title: Openings
       permalink: /openings/
