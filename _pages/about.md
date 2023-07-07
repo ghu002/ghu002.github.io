@@ -17,18 +17,17 @@ social: true  # includes social icons at the bottom of the page
 
 carousels:
   - images: 
-    - image: /assets/img/Highlight_1.JPG
-    - image: /assets/img/Highlight_2.JPG
-    - image: /assets/img/Highlight_3.JPG
-    - image: /assets/img/Highlight_4.JPG
+    - image: /assets/img/Highlight_1.png
+    - image: /assets/img/Highlight_2.png
+    - image: /assets/img/Highlight_3.png
+    - image: /assets/img/Highlight_4.png
 ---
 
 
 <div> 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/materials.gif" title="Examples of crystal structures" align="right" width="200px"/> 
-<p style="text-align:justify">Finding new materials to serve as the next generation catalysts, batteries, solar cells, superconductors or electronic devices can have a potentially transformative impact on our lives and society. Our group at Georgia Tech seeks to harness the power of computing and machine learning to accelerate this discovery process, with the eventual goal of fully realizing materials by inverse design. We accomplish this by developing novel methods and tools which incorporate chemical information to model phenomena at the atomic scale, as well as design new materials from the ground up, atom-by-atom. We also work to establish automated, data-driven and domain-informed ecosystems for materials and chemical discovery which can be deployed on the latest supercomputers. Our <a href="../group">group</a> is highly multi-disciplinary and collaborative, welcoming people from different backgrounds with a shared desire to learn and make a positive impact on the world through our <a href="../research">research</a>.</p>
-
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/overview.png" title="Overview" align="right" width="200px"/> 
+<p style="text-align:justify">Designing high-performance and low-cost materials for sustainable energy harvesting and utilization is one of the prime challenges our society faces today. Our group at Georgia Tech uses quantum mechanical modelling and materials informatics to discover and design functional materials for these applications. We also work to develop and apply new computational methodologies which can provide cost-effective but accurate descriptions of materials with complex properties. Through these investigations, we seek to obtain a fundamental understanding of the mechanisms underlying energy harvesting and the chemical conversions of molecules at atomic-level, to reveal structure-property relationships and provide experimentally realizable design principles. Combined with automated fabrication, we aim to accelerate the discovery of materials with complex properties to solve time-sensitive problems involving green energy production and climate remediation.
 </div>
 
 
