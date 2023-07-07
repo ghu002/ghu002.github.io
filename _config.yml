@@ -19,7 +19,7 @@ photo: Victor_1.jpg
 cv: Victor_CV.pdf
 icon: icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://vxfung.github.io # the base hostname & protocol for your site
+url: https://ghu002.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/    
 last_updated: true # set to true if you want to display last updated in the footer
 
@@ -55,18 +55,18 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Fung-Lab # your GitHub user name
+github_username: ghu002 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: victorxfung # your Twitter handle
-linkedin_username: victorxfung # your LinkedIn user name
-scholar_userid: 2QsddMIAAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-3347-6983 # your ORCID ID
+twitter_username: GuoxiangH # your Twitter handle
+linkedin_username: guoxiang-hu-63756aab # your LinkedIn user name
+scholar_userid: WpIjwkUAAAAJ # your Google Scholar ID
+orcid_id: 0000-0003-2942-8564 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile:  # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://cse.gatech.edu/ # work page URL
+work_url: https://mse.gatech.edu/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -75,7 +75,7 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
 
 
-google_analytics: G-PQTD9WDF0S
+google_analytics:
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
@@ -84,7 +84,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Fung Group Blog # blog_name will be displayed in your blog page
+blog_name: Hu Group Blog # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: A blog
 permalink: /blog/:year/:title/
@@ -201,8 +201,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Fung
-  first_name: Victor
+  last_name: Hu 
+  first_name: Guoxiang
 
   style: dependent/nature-communications.csl
   locale: en
