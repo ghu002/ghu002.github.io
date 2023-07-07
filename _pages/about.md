@@ -32,5 +32,5 @@ carousels:
 </div>
 
 
-<h5><a href="../openings">We are currently looking for students to join us! (7/1/2022)</a></h5>
+<h5><a href="../openings">We are currently looking for students to join us! (8/1/2023)</a></h5>
 <br>
