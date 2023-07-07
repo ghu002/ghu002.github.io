@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.fung-group.org/sitemap.xml
+Sitemap: https://www.hu-group.org/sitemap.xml
