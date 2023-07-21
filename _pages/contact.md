@@ -17,12 +17,12 @@ nav_order: 6
     <div class="col-sm-6">
       
       <h4>Address:</h4>
-      <h5>E1354B</h5>
-      <h5>CODA Building, 756 W Peachtree St NW, Atlanta, GA 30308</h5>
+      <h5></h5>
+      <h5>Renewable Bioproducts Institute, 500 10th St NW, Atlanta, GA 30332</h5>
   
       <br>
       <h4>Email:</h4>
-      <h5>victorfung at gatech.edu</h5>
+      <h5>emma.hu at mse.gatech.edu</h5>
 
       <br>
       <h4>You can also find me on these sites:</h4>
@@ -33,7 +33,7 @@ nav_order: 6
     </div>
     
     <div class="col-sm-6"> 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15776.256522397123!2d-84.39766039919337!3d33.77230834233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50466807437fd%3A0x6ec1b0f5e4a7b343!2s756%20W%20Peachtree%20St%20NW%2C%20Atlanta%2C%20GA%2030308!5e0!3m2!1sen!2sus!4v1656816960996!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.2049858151977!2d-84.40676312292076!3d33.78120433199109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5048d2e37823b%3A0xca1fff67cd72039!2sRenewable%20Bioproducts%20Institute%20(Georgia%20Tech)!5e0!3m2!1sen!2sus!4v1689982633430!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       
     </div>
     

@@ -17,17 +17,17 @@ social: true  # includes social icons at the bottom of the page
 
 carousels:
   - images: 
-    - image: /assets/img/Highlight_1.png
-    - image: /assets/img/Highlight_2.png
-    - image: /assets/img/Highlight_3.png
-    - image: /assets/img/Highlight_4.png
+    - image: /assets/img/Highlight_1.TIF
+    - image: /assets/img/Highlight_2.TIF
+    - image: /assets/img/Highlight_3.TIF
+    - image: /assets/img/Highlight_4.TIF
 ---
 
 
 <div> 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/overview.png" title="Overview" align="right" width="500px"/> 
-<p style="text-align:justify">Designing high-performance and low-cost materials for sustainable energy harvesting and utilization is one of the prime challenges our society faces today. Our group at Georgia Tech uses quantum mechanical modelling and materials informatics to discover and design functional materials for these applications. We also work to develop and apply new computational methodologies which can provide cost-effective but accurate descriptions of materials with complex properties. Through these investigations, we seek to obtain a fundamental understanding of the mechanisms underlying energy harvesting and the chemical conversions of molecules at atomic-level, to reveal structure-property relationships and provide experimentally realizable design principles. Combined with automated fabrication, we aim to accelerate the discovery of materials with complex properties to solve time-sensitive problems involving green energy production and climate remediation.</p>
+<p style="text-align:justify">Efficient and sustainable energy harvesting and utilization is one of the prime scientific and engineering challenges of today. A key objective lies in finding high-performance and low-cost materials for these applications. However, better methods are needed for targeted materials design and precise fabrication than the current Edisonian approaches. Our group at Georgia Tech seeks to understand the mechanisms of energy storage and conversion at the atomic level and reveal structure-property relationships for knowledge/data-driven materials design. Specifically, we use quantum mechanical modelling combined with materials informatics to study three important applications: (1) electrochemical catalysis, (2) neuromorphic computing, and (3) light harvesting. We mainly work on earth-abundant and environment friendly materials with a focus on 2D materials and perovskites. Notably, we take advantage of a host of computational tools at different levels of theory to fully capture the underlying physical phenomena governing the broad range of functional properties in the materials. Through close collaborations with experimental groups from both universities and national labs including Oak Ridge National Laboratory, our ultimate goal is to realize atomically precision and automation in materials design.</p>
 
 </div>
 

@@ -1,90 +1,13 @@
-- firstname: Shuyi
-  lastname: Jia
-  photo: Shuyi.jpg
-  position: PhD student (2022- )
-  email: shuyijia@gatech.edu
-  scholar: 
-  website: https://shuyijia.github.io
-  cv: 
-  alumni: false
-  visible: true
-
-- firstname: Sarah 
-  lastname: Eisenach
-  photo: Sarah.jpg
-  position: PhD student (2022- )
-  email: sarah.eisenach@gatech.edu
-  scholar: 
-  website: https://www.linkedin.com/in/saraheisenach/
-  cv: 
-  alumni: false
-  visible: true 
-
-- firstname: Ian   
-  lastname: Slagle
-  photo: Ian.jpg
-  position: PhD student joint w/ Faisal Alamgir (2022- )
-  email: islagle3@gatech.edu
-  scholar: 
-  website: https://islagle.com/
-  cv: 
-  alumni: false
-  visible: true
-
-- firstname: Anshuman
-  lastname: Sinha
+- firstname: Courtney
+  lastname: Brea
   photo: brain.jpg
-  position: Masters student (2023- )
+  position: PhD student (2020- )
   email: 
   scholar: 
   website: 
-  cv: 
-  alumni: false
-  visible: true 
-  
-- firstname: Sidharth  
-  lastname: Baskaran
-  photo: Sid.jpg
-  position: Undergrad student (2022- )
-  email: sidharth.baskaran@gatech.edu
-  scholar: 
-  website: https://sidnb13.github.io/
   cv: 
   alumni: false
   visible: true
-
-- firstname: Eric
-  lastname: Juarez
-  photo: Eric.jpg
-  position: Undergrad student @ Emory (2021- )
-  email: 
-  scholar: 
-  website: 
-  cv: 
-  alumni: Yes
-  visible: true 
-
-- firstname: Rithwik
-  lastname: Seth
-  photo: Rithwik.png
-  position: Undergrad student (2022- )
-  email: 
-  scholar: 
-  website: 
-  cv: 
-  alumni: false
-  visible: true 
-  
-- firstname: Pranav
-  lastname: Manivannan
-  photo: brain.jpg
-  position: Undergrad student (2022- )
-  email: 
-  scholar: 
-  website: 
-  cv: 
-  alumni: false
-  visible: true 
  
 - firstname: Place 
   lastname: Holder
