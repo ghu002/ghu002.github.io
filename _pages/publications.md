@@ -49,22 +49,5 @@ nav_order: 3
 {% endfor %}
 
 
-<h1 class="publications">Conference Proceedings</h1>
-{% capture numPapers %}
-{% bibliography_count --file conferences --group_order descending %}
-{% endcapture %}
-<h1 class="bibliography" style="counter-reset:bibitem {{numPapers|plus:1}}"></h1>
-
-{% for y in page.years %}
-  {% capture num_per_year %}
-  {% bibliography_count --file conferences --group_order descending -q @*[year={{y}}]* %}
-  {% endcapture %}
-  {% if num_per_year contains "0" %}
-  {% else %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography --file conferences -q @*[year={{y}}]* %}
-  {% endif %}
-{% endfor %}
-
 
 </div>
