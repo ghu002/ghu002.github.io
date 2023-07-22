@@ -9,7 +9,7 @@ nav_order: 2
 
 
 <div class="group">  
-<h5><a href="../openings">We are currently looking for students to join us! (7/1/2022)</a></h5>
+<h5><a href="../openings">We are currently looking for undergraduate/graduate/postdoctoral students to join us! (8/1/2023)</a></h5>
 
 <h2>PI</h2>
 
