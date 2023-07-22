@@ -64,9 +64,6 @@ The edges of 2D materials, analogous to surfaces of bulk materials, exhibit uniq
   </div>
 </div>
 
-<p style="text-align:justify">
-We run our simulations on high performance supercomputers such as Perlmutter and Frontier.
-</p>
 </div>
 
 <!-- pages/projects.md -->
