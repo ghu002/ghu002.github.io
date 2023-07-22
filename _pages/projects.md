@@ -18,7 +18,7 @@ One major challenge shared in the development of water splitting devices, regene
 
 <div class="row">
   <div class="col-sm-12" style="text-align:center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Research_1.TIF" width="75%">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/R_1.PNG" width="75%">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Neuromorphic computing is a new paradigm for computer architecture which mimic h
 
 <div class="row">
   <div class="col-sm-12" style="text-align:center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Research_2.TIF" width="100%">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/R_2.PNG" width="100%">
   </div>
 </div>
 
@@ -46,7 +46,7 @@ Solar light harvesting is an attractive means of energy utilization to help solv
 
 <div class="row">
   <div class="col-sm-12" style="text-align:center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Research_3.TIF" width="100%">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/R_3.PNG" width="100%">
   </div>
 </div>
 
@@ -60,7 +60,7 @@ The edges of 2D materials, analogous to surfaces of bulk materials, exhibit uniq
 
 <div class="row">
   <div class="col-sm-12" style="text-align:center">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Research_34.TIF" width="100%">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/R_4.PNG" width="100%">
   </div>
 </div>
 

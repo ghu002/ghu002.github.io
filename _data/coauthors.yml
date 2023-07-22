@@ -7,7 +7,7 @@
   website: 
   cv: 
   alumni: false
-  visible: true
+  visible: false
  
 - firstname: Place 
   lastname: Holder

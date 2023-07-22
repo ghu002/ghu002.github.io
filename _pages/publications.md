@@ -11,7 +11,7 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 <div class="publications">
-<p>For the most up-to-date list of publications, please refer to <a href="https://scholar.google.com/citations?user=2QsddMIAAAAJ&hl=en">Google Scholar</a>.</p>
+<p>For the most up-to-date list of publications, please refer to <a href="https://scholar.google.com/citations?user=WpIjwkUAAAAJ&hl=en">Google Scholar</a>.</p>
 
 
 {% capture num_per_year %}

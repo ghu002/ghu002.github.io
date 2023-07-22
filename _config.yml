@@ -15,8 +15,8 @@ footer_text: >
 keywords: Guoxiang, Hu  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-photo: Victor_1.jpg
-cv: Victor_CV.pdf
+photo: Emma.PNG
+cv: CV.pdf
 icon: icon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ghu002.github.io # the base hostname & protocol for your site
