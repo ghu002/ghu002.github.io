@@ -15,7 +15,7 @@ nav_order: 2
 
 <div class="row" id="PI">
   <div class="col-sm-6"> 
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.photo }}"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/Emma_2.PNG"/>
   </div>
   <div class="col-sm-6" style="text-align:left"> 
     <h4> {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }} </h4>
