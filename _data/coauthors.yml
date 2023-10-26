@@ -1,3 +1,10 @@
+- firstname: Pranav  
+  lastname: Khadilkar
+  photo: Khadilkar.jpg
+  position: Masters student (2023- )
+  alumni: false
+  visible: true
+
 - firstname: Place 
   lastname: Holder
   photo: 2.jpg
