@@ -1,3 +1,24 @@
+- firstname: Zhendian  
+  lastname: Zhang
+  photo: Zhang.png
+  position: Postdoctoral Fellow (2024- )
+  alumni: false
+  visible: true
+
+- firstname: Courtney  
+  lastname: Brea
+  photo: brain.jpg
+  position: PhD student (2023- )
+  alumni: false
+  visible: true
+  
+- firstname: Rahul  
+  lastname: Somni
+  photo: Somni.png
+  position: PhD student (2023- )
+  alumni: false
+  visible: true
+  
 - firstname: Pranav  
   lastname: Khadilkar
   photo: Khadilkar.jpg
