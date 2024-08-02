@@ -5,6 +5,13 @@
   alumni: false
   visible: true
 
+- firstname: Beenish  
+  lastname: Bashir
+  photo: Bashir.jpg
+  position: Postdoctoral Fellow (2024- )
+  alumni: false
+  visible: true
+
 - firstname: Courtney  
   lastname: Brea
   photo: brain.jpg
@@ -14,10 +21,31 @@
   
 - firstname: Rahul  
   lastname: Somni
-  photo: Somni.png
+  photo: Somni.jpg
   position: PhD student (2023- )
   alumni: false
   visible: true
+
+- firstname: Ankit  
+  lastname: Bansal
+  photo: Bansal.jpg
+  position: PhD student (2024- )
+  alumni: false
+  visible: true
+  
+- firstname: Seungjun   
+  lastname: Cha
+  photo: Cha.jpg
+  position: PhD student (2024- )
+  alumni: false
+  visible: true
+  
+- firstname: Prajeet  
+  lastname: Oza
+  photo: brain.png
+  position: PhD student (2024- )
+  alumni: false
+  visible: true    
   
 - firstname: Pranav  
   lastname: Khadilkar
