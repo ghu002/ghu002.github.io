@@ -16,7 +16,7 @@ nav_order: 2
       {% if site.news != blank -%}  
         {% if item.visible == true %}
           <tr>
-            <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+            <th scope="row">{{ item.date | date: "%Y" }}</th>
             <td>
               {% if item.inline -%} 
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
