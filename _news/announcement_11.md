@@ -5,4 +5,4 @@ inline: true
 visible: true
 ---
 
-PhD students Ankit Bansal, Seungjun Cha, and Prajeet Oza join the group, welcome board! 
+PhD students Ankit Bansal, Seungjun Cha, and Prajeet Oza join the group, welcome aboard! 

@@ -21,7 +21,7 @@
   
 - firstname: Rahul  
   lastname: Somni
-  photo: Somni.jpg
+  photo: Somni.png
   position: PhD student (2023- )
   alumni: false
   visible: true
@@ -42,7 +42,7 @@
   
 - firstname: Prajeet  
   lastname: Oza
-  photo: brain.png
+  photo: brain.jpg
   position: PhD student (2024- )
   alumni: false
   visible: true    
