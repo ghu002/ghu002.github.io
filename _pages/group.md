@@ -9,7 +9,6 @@ nav_order: 2
 
 
 <div class="group">  
-<h5><a href="../openings">We are currently looking for undergraduate/graduate/postdoctoral students to join us! (8/1/2023)</a></h5>
 
 <h2>PI</h2>
 
@@ -21,8 +20,7 @@ nav_order: 2
     <h4> {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }} </h4>
     <h5> {{ site.position }} </h5>
     <p style="text-align:justify"> Dr. Hu joined the School of MSE at Georgia Tech as an Assistant Professor in Fall 2023. Prior to this position, she was an Assistant Professor at City University of New York from 2020-2023. She was a postdoctoral scholar in the Center for Nanophase Materials Sciences at Oak Ridge National Laboratory from 2018-2020. She obtained her Ph.D. in Physical Chemistry in 2018 from the University of California, Riverside, and her B.S. in Chemistry in 2013 from University of Science and Technology of China. Dr. Hu develops and applies advanced computational methods to study earth-abundant and environment friendly materials for energy and electronic applications.  
-    </p>
-    {%- if site.cv -%} <a href="{{ site.url }}{{ site.baseurl }}/assets/pdf/CV.pdf" title="CV"><i class="ai ai-cv ai-2x"></i></a> {% endif %}   
+    </p>  
     {%- if site.email -%} <a href="mailto:{{ site.email | encode_email }}" title="Email"><i class="fas fa-envelope-square ai-2x"></i></a> {% endif %}       
     {%- if site.scholar_userid -%} <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a> {% endif %}                                
     {%- if site.orcid_id -%} <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid ai-2x"></i></a> {% endif %}

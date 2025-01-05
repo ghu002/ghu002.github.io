@@ -31,6 +31,7 @@ carousels:
 
 </div>
 
-
+{% comment %} 
 <h5><a href="../openings">We are currently looking for undergraduate/graduate/postdoctoral students to join us! (8/1/2023)</a></h5>
+{% endcomment %}
 <br>

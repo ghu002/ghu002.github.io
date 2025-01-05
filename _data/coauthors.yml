@@ -14,7 +14,7 @@
 
 - firstname: Courtney  
   lastname: Brea
-  photo: brain.jpg
+  photo: Courtney_Brea.jpeg
   position: PhD student (2023- )
   alumni: false
   visible: true
@@ -50,7 +50,35 @@
 - firstname: Pranav  
   lastname: Khadilkar
   photo: Khadilkar.jpg
-  position: Masters student (2023- )
+  position: Masters student (2025- )
+  alumni: false
+  visible: true
+
+- firstname: Michael     
+  lastname: Jones-Bey
+  photo: brain.jpg
+  position: Undergraduate student (2025- )
+  alumni: false
+  visible: true
+
+- firstname: Michael     
+  lastname: Jones-Bey
+  photo: brain.jpg
+  position: Undergraduate student (2025- )
+  alumni: false
+  visible: true
+  
+- firstname: Jacob      
+  lastname: Buzzard
+  photo: brain.jpg
+  position: Undergraduate student (2025- )
+  alumni: false
+  visible: true
+
+- firstname: Pema     
+  lastname: Deki Yangden
+  photo: brain.jpg
+  position: Undergraduate student (2025- )
   alumni: false
   visible: true
 

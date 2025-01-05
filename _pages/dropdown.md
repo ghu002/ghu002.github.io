@@ -15,8 +15,5 @@ children:
       permalink: /openings/
     - title: divider
     - title: Pictures
-      permalink: /pictures/
-    - title: divider
-    - title: Group Meetings
-      permalink: /group_meetings/            
+      permalink: /pictures/         
 ---

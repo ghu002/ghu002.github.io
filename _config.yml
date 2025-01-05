@@ -7,7 +7,7 @@ first_name: Guoxiang (Emma)
 middle_name: 
 last_name: Hu
 position: Assistant Professor of Materials Science and Engineering, College of Engineering, Georgia Tech
-email: ghu002@ucr.edu
+email: emma.hu@mse.gatech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The website of Hu Group at Georgia Tech
 footer_text: >
@@ -58,8 +58,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: ghu002 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: GuoxiangH # your Twitter handle
-linkedin_username: guoxiang-hu-63756aab # your LinkedIn user name
-scholar_userid: WpIjwkUAAAAJ # your Google Scholar ID
+linkedin_username: guoxiang-emma-hu-63756aab # your LinkedIn user name
+scholar_userid: wFKnTNgAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-2942-8564 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
