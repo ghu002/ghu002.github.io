@@ -15,8 +15,8 @@
 - firstname: Courtney  
   lastname: Brea
   photo: Courtney_Brea.jpeg
-  position: PhD student (2023- )
-  alumni: false
+  position: PhD student (2020-2025)
+  alumni: true
   visible: true
   
 - firstname: Rahul  
@@ -42,7 +42,7 @@
   
 - firstname: Prajeet  
   lastname: Oza
-  photo: brain.jpg
+  photo: Prajeet.jpg
   position: PhD student (2024- )
   alumni: false
   visible: true    
@@ -50,34 +50,34 @@
 - firstname: Pranav  
   lastname: Khadilkar
   photo: Khadilkar.jpg
-  position: Masters student (2025- )
-  alumni: false
+  position: Masters student (2023-2025)
+  alumni: true
   visible: true
 
 - firstname: Heejoon     
   lastname: Jeon
   photo: Heejoon_Jeon.jpeg
-  position: Masters student (2025- )
-  alumni: false
+  position: Masters student (2024-2025) now at Saint-Gobain
+  alumni: true
   visible: true
 
 - firstname: Michael     
   lastname: Jones-Bey
-  photo: brain.jpg
+  photo: Michael.jpg
   position: Undergraduate student (2025- )
   alumni: false
   visible: true
   
 - firstname: Jacob      
   lastname: Buzzard
-  photo: brain.jpg
+  photo: Jacob.jpg
   position: Undergraduate student (2025- )
   alumni: false
   visible: true
 
 - firstname: Pema     
   lastname: Deki Yangden
-  photo: brain.jpg
+  photo: Pema.jpg
   position: Undergraduate student (2025- )
   alumni: false
   visible: true
