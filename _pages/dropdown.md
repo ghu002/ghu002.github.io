@@ -11,9 +11,6 @@ children:
     - title: News
       permalink: /allnews/     
     - title: divider
-    - title: Openings
-      permalink: /openings/
-    - title: divider
     - title: Pictures
       permalink: /pictures/         
 ---
