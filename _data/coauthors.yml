@@ -8,8 +8,8 @@
 - firstname: Beenish  
   lastname: Bashir
   photo: Bashir.jpg
-  position: Postdoctoral Fellow (2024- )
-  alumni: false
+  position: Postdoctoral Fellow (2024-2025)
+  alumni: true
   visible: true
 
 - firstname: Courtney  
@@ -71,13 +71,27 @@
 - firstname: Jacob      
   lastname: Buzzard
   photo: Jacob.jpg
-  position: Undergraduate student (2025- )
-  alumni: false
+  position: Undergraduate student (2025)
+  alumni: true
   visible: true
 
 - firstname: Pema     
   lastname: Deki Yangden
   photo: Pema.jpg
+  position: Undergraduate student (2025)
+  alumni: true
+  visible: true
+
+- firstname: Dong Hyeon     
+  lastname: Mok
+  photo: Dong.jpg
+  position: Visiting scholar (2025- )
+  alumni: false
+  visible: true
+  
+- firstname: Hao (Andy)     
+  lastname: Fang
+  photo: Dong.jpg
   position: Undergraduate student (2025- )
   alumni: false
   visible: true

@@ -17,17 +17,17 @@ social: true  # includes social icons at the bottom of the page
 
 carousels:
   - images: 
-    - image: /assets/img/HL_1.PNG
-    - image: /assets/img/HL_2.PNG
-    - image: /assets/img/HL_3.PNG
     - image: /assets/img/HL_4.PNG
+    - image: /assets/img/HL_5.PNG
+    - image: /assets/img/HL_6.PNG
+    - image: /assets/img/HL_7.PNG
 ---
 
 
 <div> 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Home.PNG" title="Overview" align="right" width="500px"/> 
-<p style="text-align:justify">Efficient and sustainable energy harvesting and utilization is one of the prime scientific and engineering challenges of today. A key objective lies in finding high-performance and low-cost materials for these applications. However, better methods are needed for targeted materials design and precise fabrication than the current Edisonian approaches. Our group at Georgia Tech seeks to understand the mechanisms of energy storage and conversion at the atomic level and reveal structure-property relationships for knowledge/data-driven materials design. Specifically, we use quantum mechanical modelling combined with materials informatics to study three important applications: (1) electrochemical catalysis, (2) neuromorphic computing, and (3) light harvesting. We mainly work on earth-abundant and environment friendly materials with a focus on 2D materials and perovskites. Notably, we take advantage of a host of computational tools at different levels of theory to fully capture the underlying physical phenomena governing the broad range of functional properties in the materials. Through close collaborations with experimental groups from both universities and national labs including Oak Ridge National Laboratory, our ultimate goal is to realize atomically precision and automation in materials design.</p>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Home_2.jpg" title="Overview" align="right" width="500px"/> 
+<p style="text-align:justify">Efficient and sustainable energy harvesting and utilization represent one of the most pressing scientific and engineering challenges of our time. A central objective in this field is the discovery of high-performance, low-cost materials that enable next-generation energy technologies. Achieving this goal, however, requires innovative strategies that move beyond traditional trial-and-error or Edisonian approaches to materials discovery. Our group at Georgia Tech develops integrated computational frameworks that combine high-throughput density functional theory (DFT), quantum Monte Carlo (QMC), data-driven screening, machine learning potentials (MLPs), and grand canonical (GC) modeling. These approaches provide atomic-level mechanistic insights into material behaviors and properties. Building on this understanding, we establish experimentally realizable design principles that accelerate the development of advanced energy technologies. The synergy between physics-based simulations and data-driven techniques enables rapid, targeted design of next-generation materials. Executing these workflows requires leveraging a broad range of computational resources, ranging from personal workstations to high-performance computing clusters such as Frontier at Oak Ridge National Laboratory (ORNL) with hundreds of thousands of CPU cores. These capabilities allow our group to perform large-scale, high-fidelity simulations that drive innovation in materials design for energy applications.</p>
 
 </div>
 
