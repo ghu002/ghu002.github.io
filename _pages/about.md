@@ -17,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 carousels:
   - images: 
-    - image: /assets/img/HL_4.PNG
-    - image: /assets/img/HL_5.PNG
-    - image: /assets/img/HL_6.PNG
-    - image: /assets/img/HL_7.PNG
+    - image: /assets/img/HL_5.png
+    - image: /assets/img/HL_6.png
+    - image: /assets/img/HL_7.png
+    - image: /assets/img/HL_8.png
 ---
 
 
