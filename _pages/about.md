@@ -17,17 +17,19 @@ social: true  # includes social icons at the bottom of the page
 
 carousels:
   - images: 
-    - image: /assets/img/HL_6.png
-    - image: /assets/img/HL_7.png
-    - image: /assets/img/HL_8.png
-    - image: /assets/img/HL_9.png
+    - image: /assets/img/HL_10.png
+    - image: /assets/img/HL_11.png
+    - image: /assets/img/HL_12.png
+    - image: /assets/img/HL_13.png
+    - image: /assets/img/HL_14.png
+    - image: /assets/img/HL_15.png
 ---
 
 
 <div> 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Home2.png" title="Overview" align="right" width="500px"/> 
-<p style="text-align:justify">Efficient and sustainable energy harvesting and utilization represent one of the most pressing scientific and engineering challenges of our time. A central objective in this field is the discovery of high-performance, low-cost materials that enable next-generation energy technologies. Achieving this goal, however, requires innovative strategies that move beyond traditional trial-and-error or Edisonian approaches to materials discovery. Our group at Georgia Tech develops integrated computational frameworks that combine high-throughput density functional theory (DFT), quantum Monte Carlo (QMC), data-driven screening, machine learning potentials (MLPs), and grand canonical (GC) modeling. These approaches provide atomic-level mechanistic insights into material behaviors and properties. Building on this understanding, we establish experimentally realizable design principles that accelerate the development of advanced energy technologies. The synergy between physics-based simulations and data-driven techniques enables rapid, targeted design of next-generation materials. Executing these workflows requires leveraging a broad range of computational resources, ranging from personal workstations to high-performance computing clusters such as Frontier at Oak Ridge National Laboratory (ORNL) with hundreds of thousands of CPU cores. These capabilities allow our group to perform large-scale, high-fidelity simulations that drive innovation in materials design for energy applications.</p>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Overview_2.png" title="Overview" align="right" width="500px"/> 
+<p style="text-align:justify">Our group at Georgia Tech advances the discovery of high-performance, low-cost materials for next-generation energy technologies. Our research is guided by the belief that transformative materials discovery requires robust, transferable design principles grounded in an understanding of why materials behave as they do. We develop computational frameworks that connect atomistic modeling, high-throughput screening, and agentic AI. Density functional theory, molecular dynamics, and machine-learned interatomic potentials reveal atomic-scale mechanisms and structure-property relationships. High-throughput screening extends these insights across thousands of materials to identify general trends and assess their transferability across chemical and structural spaces. Our agentic AI frameworks incorporate chemical reasoning and domain knowledge to generate hypotheses, test and refine them through computational evaluation, and translate findings into new design principles. We apply these approaches to understand and design dynamic materials interfaces, focusing on (1) electrochemical interfaces for catalysis under realistic reaction conditions and (2) organic-inorganic interfaces in quantum-confined nanomaterials for optoelectronics.</p>
 
 </div>
 
